@@ -3,4 +3,3 @@ Dimas Rasyid Test
 - belajar git
 - pelajari ulang crud laravel
 - mulai ulang rest api laravel
-- belajar membuat aplikasi mobile
