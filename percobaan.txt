@@ -2,4 +2,5 @@ Dimas Rasyid Test
 - selesaikan tugas plp maks tgl 14
 - belajar git
 - pelajari ulang crud laravel
+  > dimulai dari awal
 - mulai ulang rest api laravel
